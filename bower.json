@@ -1,0 +1,25 @@
+{
+  "name": "react_sf",
+  "homepage": "https://github.com/robert-laws/ReactJS-Simple",
+  "authors": [
+    "robert-laws <robaws@me.com>"
+  ],
+  "description": "Simple ReactJS Project",
+  "main": "",
+  "keywords": [
+    "ReactJS"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "babel": "^5.8.38"
+  }
+}
